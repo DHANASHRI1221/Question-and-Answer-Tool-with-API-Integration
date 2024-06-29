@@ -1,0 +1,18 @@
+---
+:id: 212533831
+:submitters:
+- :name: Dhanashri Raghunath Shivdas
+  :email: ee3221907@iitd.ac.in
+- :name: Aman Divya
+  :email: mt1221293@iitd.ac.in
+- :name: Garima Garima
+  :email: ee3221775@ee.iitd.ac.in
+- :name: Avilasha Mandal
+  :email: cs1221631@iitd.ac.in
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2023-11-14 17:41:47.864549000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2023-11-14 09:41:47.864549000 Z
+:status: processed
+:score: 5.0
